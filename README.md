@@ -5,9 +5,9 @@
 -lol
 -otra
 
-1. num
-2. dos
-3. yei
+1. No
+2. se
+3. Maya
 
 `print "hello world"`
 ```python
@@ -17,4 +17,3 @@ print np.pi
 ![alt](http://placehold.it/350x150)
 :octocat:
 [click](http://google.com)
-
