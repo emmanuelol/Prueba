@@ -5,9 +5,9 @@
 -lol
 -otra
 
-1. ome
+1. No
 2. se
-3. yei
+3. Maya
 
 `print "hello world"`
 ```python
