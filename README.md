@@ -5,8 +5,8 @@
 -lol
 -otra
 
-1. num
-2. dos
+1. ome
+2. se
 3. yei
 
 `print "hello world"`
@@ -17,4 +17,3 @@ print np.pi
 ![alt](http://placehold.it/350x150)
 :octocat:
 [click](http://google.com)
-
